@@ -30,4 +30,4 @@ function calcularVitoriasEDerrotas(vitorias, derrotas) {
     return `O Herói tem de saldo de ${saldo} está no nível de ${nivel}`;
 }
 
-console.log(calcularVitoriasEDerrotas(50, 2)); // O Herói tem esse saldo porque tem 80 vitórias e 0 derrotas
+console.log(calcularVitoriasEDerrotas(80, 0)); // O Herói tem esse saldo porque tem 80 vitórias e 0 derrotas
